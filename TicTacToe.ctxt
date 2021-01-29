@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=TicTacToe
+comment1.params=
+comment1.target=TicTacToe()
+comment2.params=f1\ f2\ f3
+comment2.target=boolean\ isRowEqual(TicTacToe.FIELD,\ TicTacToe.FIELD,\ TicTacToe.FIELD)
+comment3.params=value
+comment3.target=TicTacToe.FIELD\ getValueFromString(java.lang.String)
+comment4.params=f\ value
+comment4.target=void\ setFieldValue(java.lang.String,\ java.lang.String)
+comment5.params=
+comment5.target=boolean\ isWin()
+comment6.params=
+comment6.target=boolean\ isTie()
+comment7.params=
+comment7.target=void\ reset()
+numComments=8
